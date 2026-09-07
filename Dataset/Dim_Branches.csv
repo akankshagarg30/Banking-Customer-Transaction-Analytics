@@ -1,0 +1,61 @@
+Branch_ID,Branch_Name,State,City,Branch_Type
+B001,Delhi Branch 001,Delhi,New Delhi,Urban
+B002,Kochi Branch 002,Kerala,Thiruvananthapuram,Urban
+B003,Udaipur Branch 003,Rajasthan,Jaipur,Metro
+B004,Hyderabad Branch 004,Telangana,Hyderabad,Metro
+B005,Mumbai Branch 005,Maharashtra,Mumbai,Metro
+B006,Nashik Branch 006,Maharashtra,Nagpur,Semi-Urban
+B007,Pune Branch 007,Maharashtra,Nagpur,Metro
+B008,Lucknow Branch 008,Uttar Pradesh,Noida,Urban
+B009,Warangal Branch 009,Telangana,Warangal,Urban
+B010,Durgapur Branch 010,West Bengal,Durgapur,Urban
+B011,Nashik Branch 011,Maharashtra,Mumbai,Semi-Urban
+B012,Kochi Branch 012,Kerala,Kochi,Semi-Urban
+B013,Lucknow Branch 013,Uttar Pradesh,Kanpur,Metro
+B014,Bengaluru Branch 014,Karnataka,Mangaluru,Urban
+B015,Mangaluru Branch 015,Karnataka,Bengaluru,Metro
+B016,Bengaluru Branch 016,Karnataka,Bengaluru,Metro
+B017,New Delhi Branch 017,Delhi,Delhi,Metro
+B018,Chennai Branch 018,Tamil Nadu,Coimbatore,Urban
+B019,Vadodara Branch 019,Gujarat,Ahmedabad,Urban
+B020,Bengaluru Branch 020,Karnataka,Mangaluru,Metro
+B021,Warangal Branch 021,Telangana,Hyderabad,Metro
+B022,Mumbai Branch 022,Maharashtra,Mumbai,Semi-Urban
+B023,Mangaluru Branch 023,Karnataka,Mangaluru,Metro
+B024,New Delhi Branch 024,Delhi,New Delhi,Metro
+B025,Vadodara Branch 025,Gujarat,Ahmedabad,Urban
+B026,Jaipur Branch 026,Rajasthan,Udaipur,Semi-Urban
+B027,Mangaluru Branch 027,Karnataka,Bengaluru,Metro
+B028,Madurai Branch 028,Tamil Nadu,Madurai,Urban
+B029,Hyderabad Branch 029,Telangana,Hyderabad,Urban
+B030,Nagpur Branch 030,Maharashtra,Nagpur,Metro
+B031,Hyderabad Branch 031,Telangana,Warangal,Urban
+B032,Pune Branch 032,Maharashtra,Nashik,Urban
+B033,Nagpur Branch 033,Maharashtra,Pune,Urban
+B034,Thiruvananthapuram Branch 034,Kerala,Thiruvananthapuram,Urban
+B035,Kochi Branch 035,Kerala,Kochi,Urban
+B036,Udaipur Branch 036,Rajasthan,Udaipur,Metro
+B037,New Delhi Branch 037,Delhi,New Delhi,Semi-Urban
+B038,Mumbai Branch 038,Maharashtra,Mumbai,Metro
+B039,Durgapur Branch 039,West Bengal,Durgapur,Metro
+B040,Surat Branch 040,Gujarat,Surat,Metro
+B041,Mumbai Branch 041,Maharashtra,Pune,Urban
+B042,Madurai Branch 042,Tamil Nadu,Madurai,Urban
+B043,Nagpur Branch 043,Maharashtra,Nashik,Metro
+B044,Noida Branch 044,Uttar Pradesh,Noida,Urban
+B045,Bengaluru Branch 045,Karnataka,Mangaluru,Metro
+B046,Kolkata Branch 046,West Bengal,Durgapur,Urban
+B047,Delhi Branch 047,Delhi,New Delhi,Metro
+B048,Coimbatore Branch 048,Tamil Nadu,Madurai,Urban
+B049,Madurai Branch 049,Tamil Nadu,Coimbatore,Urban
+B050,Mangaluru Branch 050,Karnataka,Bengaluru,Semi-Urban
+B051,Kochi Branch 051,Kerala,Kochi,Metro
+B052,Jaipur Branch 052,Rajasthan,Jaipur,Metro
+B053,Kochi Branch 053,Kerala,Kochi,Metro
+B054,Kanpur Branch 054,Uttar Pradesh,Noida,Semi-Urban
+B055,Warangal Branch 055,Telangana,Hyderabad,Semi-Urban
+B056,Kanpur Branch 056,Uttar Pradesh,Lucknow,Metro
+B057,Mumbai Branch 057,Maharashtra,Mumbai,Urban
+B058,Bengaluru Branch 058,Karnataka,Mangaluru,Semi-Urban
+B059,Pune Branch 059,Maharashtra,Nagpur,Urban
+B060,New Delhi Branch 060,Delhi,Delhi,Urban

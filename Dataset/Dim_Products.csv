@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Product_Category,Risk_Level
+P001,Savings Account,Deposit,Low
+P002,Current Account,Deposit,Medium
+P003,Fixed Deposit,Investment,Low
+P004,Recurring Deposit,Investment,Low
+P005,Personal Loan,Loan,High
+P006,Home Loan,Loan,Medium
+P007,Auto Loan,Loan,Medium
+P008,Credit Card,Card,Medium

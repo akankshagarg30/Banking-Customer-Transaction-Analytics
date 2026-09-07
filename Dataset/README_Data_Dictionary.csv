@@ -1,0 +1,10 @@
+Table,Rows,Purpose
+Dim_Date,1096,Calendar for time intelligence
+Dim_Customers,15000,Customer master and segmentation
+Dim_Branches,60,Branch/location dimension
+Dim_Products,8,Banking product dimension
+Fact_Accounts,22000,Accounts and balances
+Fact_Transactions,250000,Core transaction fact with anomaly flags
+Fact_Loans,7000,Loan portfolio and risk
+Fact_Credit_Cards,9000,Credit card portfolio and utilization
+Fact_Customer_Activity,90000,Activity history for retention/churn
